@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devlobo.github.io/blog/sitemap-index.xml
+Sitemap: https://devlobo.github.io/sitemap-index.xml
